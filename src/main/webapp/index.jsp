@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 30px;" align="middle">   BENZE  AUDI  SCORPIO  </h1>
+	<h1 style="color: black; font-size: 40px;" align="center">   MANA PATHASALA   </h1>
 </body>
 </html>
