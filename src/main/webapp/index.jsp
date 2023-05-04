@@ -1,5 +1,5 @@
 <html>
-<body bgcolor= "pink" >
+<body bgcolor= "blue" >
 	<center>
 		<img src="employee_icon.png" height=52 width=52>
 		<font size="+3" color=red>employee registration form</font>
