@@ -1,7 +1,7 @@
 <html>
-<body bgcolor= "blue" >
+<body bgcolor= "green" >
 	<center>
-		<img src="employee_icon.png" height=52 width=52>
+		
 		<font size="+3" color=red>employee registration form</font>
 		<form method=post action="prace.html">employee id for registration</form>
 	</center>
